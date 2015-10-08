@@ -1,0 +1,2 @@
+# smalljournal
+wordpress news
